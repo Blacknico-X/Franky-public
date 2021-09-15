@@ -70,7 +70,7 @@
   </a>
 </p>
 
-### 👩‍🦰ක්‍රියාත්මක කරන්නෙ කෙසේද??
+### 👩‍ W.A 🦰ක්‍රියාත්මක කරන්නෙ කෙසේද??
 
 #### සරල ක්‍රමය
 
@@ -80,9 +80,9 @@
 franky bot ගොඩනැගීමට ඔබට ජංගම දුරකථන 2 ක් අවශ්‍ය වේ!
 ඔබ දෙවන උපාංගයෙන් bot ක්‍රියා කරනු ඇත. 
 ඔබ පළමු උපාංගය සමඟ පමණක් QR කේතය generate කරනු ඇත.
-පළමු උපාංගයෙන් ඔබට Amazone Bot install කිරීමට අවශ්‍යයි..
+පළමු උපාංගයෙන් ඔබට Franky Bot install කිරීමට අවශ්‍යයි..
 ```
-#### QR කේතය ලබා ගත් පසු පහල බටනය ඔබලා Bot deploy කරන්න
+#### QR කේතය ලබා ගත් පසු පහල බටනය ඔබලා franky Bot deploy කරන්න
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xneon2/Hashzi-X)
 
 
@@ -123,15 +123,15 @@ franky bot ගොඩනැගීමට ඔබට ජංගම දුරකථන
 ```
 පරිශීලක බොට් නිසා; ඔබගේ WhatsApp ගිණුම banned කළ හැකිය.
 මෙය විවෘත මූලාශ්‍ර ව්‍යාපෘතියකි, ඔබ කරන සෑම දෙයකටම ඔබ වගකිව යුතුය. 
-නියත වශයෙන්ම,Neotro-x  විධායකයන් වගකීම භාර නොගනී.
-neotro-x  පිහිටුවීමෙන් ඔබ මෙම වගකීම් භාරගෙන ඇති බව සලකනු ලැබේ.
+නියත වශයෙන්ම,FrankyBot  විධායකයන් වගකීම භාර නොගනී.
+FRANKYBOT  පිහිටුවීමෙන් ඔබ මෙම වගකීම් භාරගෙන ඇති බව සලකනු ලැබේ.
 ```
 
 ## 👨‍💻Developer
 
-[![Chethana_Broh-TeenuhX And SAMIRU(blacknico)](https://github.com/tenuh.png?size=100)](https://https://youtu.be/mcEeIspWOpY)
+[![Blacknico-X- SAMIRU)](https://github.com/tenuh.png?size=100)](https://https://youtu.be/mcEeIspWOpY)
 
- ***ᴄʜᴇᴛʜᴀɴᴀ_ʙʀᴏ(Teenuh-X😈)***
+ ***(blacknico-X😈)***
 <a href="https://Wa.me/+94766598862">
     <img src="https://img.shields.io/badge/FindOn%20whatsapp-purple&style=plastic">
  ***Samiru Methsara( blacknico-X)***
@@ -158,7 +158,7 @@ neotro-x  පිහිටුවීමෙන් ඔබ මෙම වගකීම�
 [![Find On Whatsapp ](https://img.shields.io/badge/Findon-whatsapp-red.svg)](https://Wa.me/+94766598862)
 
 
-### 🚀Amazone Alexa Team
+### 🚀Frankybot SupporterTeam
 
 [![Find On Telegram ](https://img.shields.io/badge/Ramilka-Rodrigo-blue.svg)](https://t.me/ramiya_yt) [![Encuizer ](https://img.shields.io/badge/En-Cuizer-blue.svg)](https://Wa.me/+94725549179) [![Find On Whatsapp ](https://img.shields.io/badge/Chamee-blue.svg)](https://Wa.me/)
 [![Find On Whatsapp ](https://img.shields.io/badge/Hazel-Safron-blue.svg)](https://Wa.me/) [![Find On Whatsapp ](https://img.shields.io/badge/Rashid-Riyaz-blue.svg)](https://Wa.me/+17723534981) [![Find On Whatsapp ](https://img.shields.io/badge/mr.freez-blue.svg)](https://Wa.me/)
@@ -166,7 +166,7 @@ neotro-x  පිහිටුවීමෙන් ඔබ මෙම වගකීම�
 [![Find On Whatsapp ](https://img.shields.io/badge/Akash-thevidu-blue.svg)](https://Wa.me/) [![Find On Whatsapp ](https://img.shields.io/badge/Josh-Mardown-blue.svg)](https://Wa.me/)
 
 ### 📑Franky bot Support Groups
-
+NO groups
 
 ## 👽Thanks To
 [![Yusuf Usta](https://github.com/yusufusta.png?size=50)](https://t.me/fusufs)
