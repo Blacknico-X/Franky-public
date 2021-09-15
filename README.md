@@ -3,7 +3,7 @@
   [![Sinhala](https://img.shields.io/badge/Select-Sinhala-green.svg)](https://github.com/xneon2/Hashzi-X/blob/main/README.md)
               
        ⚡ ◁====BETA RELEASE===▷
-![logo](https://telegra.ph/file/e8f3e419b3dafe9fe8153.jpg)
+![logo](https://telegra.ph/File-09-15-110)
 <h1 align="center"><b> 🧚�F R A N K Y BOT (ᴠɪᴘ) </b></h1>
 
 </p>
