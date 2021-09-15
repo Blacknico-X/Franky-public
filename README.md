@@ -129,7 +129,7 @@ FRANKYBOT  පිහිටුවීමෙන් ඔබ මෙම වගකීම
 
 ## 👨‍💻Developer
 
-[![Blacknico-X- SAMIRU)](https://github.com/tenuh.png?size=100)](https://https://youtu.be/mcEeIspWOpY)
+[![Blacknico-X- SAMIRU)](https://github.com/account)](https://https://youtu.be/mcEeIspWOpY)
 
  ***(blacknico-X😈)***
 <a href="https://Wa.me/+94766598862">
