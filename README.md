@@ -129,7 +129,7 @@ neotro-x  පිහිටුවීමෙන් ඔබ මෙම වගකීම�
 
 ## 👨‍💻Developer
 
-[![Chethana_Broh-TeenuhX](https://github.com/tenuh.png?size=100)](https://https://youtu.be/mcEeIspWOpY)
+[![Chethana_Broh-TeenuhX And SAMIRU(blacknico)](https://github.com/tenuh.png?size=100)](https://https://youtu.be/mcEeIspWOpY)
 
  ***ᴄʜᴇᴛʜᴀɴᴀ_ʙʀᴏ(Teenuh-X😈)***
 <a href="https://Wa.me/+94766598862">
@@ -176,3 +176,4 @@ neotro-x  පිහිටුවීමෙන් ඔබ මෙම වගකීම�
 ## 👽Thanks To
 [![Yusuf Usta](https://github.com/yusufusta.png?size=50)](https://t.me/fusufs)
 [Yusuf Usta](https://t.me/fusufs)
+wa.me/94753119982
